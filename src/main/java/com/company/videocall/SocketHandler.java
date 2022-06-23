@@ -1,4 +1,4 @@
-package com.company;
+package com.company.videocall;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.TextMessage;

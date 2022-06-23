@@ -1,5 +1,5 @@
-package com.company.config;
-import com.company.SocketHandler;
+package com.company.videocall.config;
+import com.company.videocall.SocketHandler;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;
 import org.springframework.web.socket.config.annotation.WebSocketConfigurer;
